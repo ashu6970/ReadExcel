@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85364" started-at="2019-12-07T11:02:05Z" finished-at="2019-12-07T11:03:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85364" started-at="2019-12-07T11:02:05Z" finished-at="2019-12-07T11:03:30Z">
+      <class name="com.tests.EmailData">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.EmailData@1ee9989]" name="setup" is-config="true" duration-ms="20066" started-at="2019-12-07T11:02:05Z" finished-at="2019-12-07T11:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="master()[pri:0, instance:com.tests.EmailData@1ee9989]" name="master" duration-ms="65250" started-at="2019-12-07T11:02:25Z" finished-at="2019-12-07T11:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- master -->
+      </class> <!-- com.tests.EmailData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
